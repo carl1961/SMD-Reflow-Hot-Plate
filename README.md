@@ -2,8 +2,8 @@
 My Build of  John Bradnam   SMD Reflow Hot Plate
 
 Using the Ant PCB Maker I built a couple years back, I put it to the test of making this small SMD components with a ATTINY3224.
-You can fine the complete build herer: https://www.hackster.io/john-bradnam/smd-reflow-hot-plate-new-version-edc02e
-What I did diffrent on the third try, I enlarged all the traces and pads to big is i could in KiCad. reason is the V bit will eat away your traces as you can see on the first try (first picture on the right on board on Ant Milling Machine).
+You can fine the complete build here: https://www.hackster.io/john-bradnam/smd-reflow-hot-plate-new-version-edc02e
+What I did diffrent on the third try, I enlarged all the traces and pads to big as i could in KiCad. reason is the V bit will eat away your traces as you can see on the first try (first picture on the right on board on Ant Milling Machine).
 I used FlatCAM  and did one pass @ .1 V bit and multipassing down twice to .07mm 
 
 This is second failer, I forgot to mirror the board!
