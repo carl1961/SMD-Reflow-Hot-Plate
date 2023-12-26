@@ -18,6 +18,11 @@ This is the third try ( strike three your out)!
 ![20231225_164321](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/58bac2bc-ebcf-4a93-9c25-e31f11ea9ef1)
 
 Now to get the parts soldered on.....
+
+Parts layout  
+![Bottom_Comp](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/e635f3b9-f1b8-4996-b409-0e636b3b199a)
+
+
 I will update as I get something to show.
 
 
