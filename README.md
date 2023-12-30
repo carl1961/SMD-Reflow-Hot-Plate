@@ -20,7 +20,41 @@ This is the third try ( strike three your out)!
 Now to get the parts soldered on.....
 
 Parts layout  
-![Bottom_Comp](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/e635f3b9-f1b8-4996-b409-0e636b3b199a)
+
+ ![Bottom_Comp](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/89b80095-a8eb-4119-8375-d7019a1ea280)
+
+Fourth time 2 passes .1 bit
+
+![WIN_20231228_07_57_30_Pro](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/87ab76cd-9e03-4c5d-ba81-d1139ff66ae7)
+
+![image](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/cc24d6a4-5ef1-457c-b602-1e8a0227982a)
+
+![image](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/a4cf8bb5-257d-4ee3-8117-4ab34cff983c)
+
+All seems working except for turning on the heat (more trouble shooting) the temp readings or from me using a bic lighter.
+
+![image](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/ace4ee9c-d2cd-4d94-b570-9261bd0ef0b0)
+
+Some test points 
+![image](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/03c1d2de-2e4e-47c5-9697-94ef896a670c)
+
+![Bottom_Comp_Test_Points-2](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/a1806273-5f18-4fc5-a8f3-09abf1fcf88c)
+Still not winning getting the relay to come on when suppose too, seems a loose connection somewhere!
+
+I ordered from JPC the boards before doing the CNC engraving, today they or comming in so I will solder up a board 
+
+![Screenshot 2023-12-26 093402](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/150dce43-9ac8-489b-8f62-8742cab13193)
+
+![Screenshot 2023-12-26 093212](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/8ce24ee6-8165-4469-9444-18038aef7197)
+
+
+
+
+
+
+
+
+
 
 
 I will update as I get something to show.
