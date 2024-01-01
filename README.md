@@ -47,6 +47,35 @@ I ordered from JPC the boards before doing the CNC engraving, today they or comm
 
 ![Screenshot 2023-12-26 093212](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/8ce24ee6-8165-4469-9444-18038aef7197)
 
+JLC Made boards
+Shipping:
+USD $1.50
+Subtotal:
+USD $2.00
+Sales tax:
+USD $0.16
+Grand Total:
+USD $3.66
+
+![image](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/b7acc5c9-3c51-4bc9-a4a5-0cfaeb5fe7c6)
+
+![image](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/1ef02638-b463-46de-80ba-7631120370d1)
+
+
+Trouble shooting the new JLC made board with the CNC engraved board, I found the bad trace and was able to get the Engraved board working!
+the trouble with the new board was the 20hz , set it to 16Hz and screen worked fine.
+
+![image](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/b142189b-2b1a-4586-9d2e-8903df56361b)
+
+I had some silicone pad from a broken shirt press, I used it for heat insulation.
+![image](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/037704ff-5ddc-4159-b4ab-13e3e21f0099)
+
+![image](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/6ad4e435-66de-4e02-8334-8e5c7b658378)
+
+I used Silicone Thermal Heatsink Plaster to hold thermocouple to middle bottom of heat plate. I had some that I always use for 3d printer to hold heat sink on drivers, works very well.
+![image](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/7d7dc01a-fa0a-47df-8e6e-f2d0af1b31f7)
+
+
 
 
 
