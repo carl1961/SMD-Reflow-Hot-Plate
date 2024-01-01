@@ -75,8 +75,7 @@ When I had trouble with New JLC made board with the display, I though maybe the 
 ![image](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/967cd22d-812c-45fe-8bdb-870e61b7364f)
 
 
-blob:https://github.com/61611d9b-2327-43ec-badd-8579f2e7963a
-
+Blink_Test_ATtiny3224_All_Pins_1-10.zip
 
 ![image](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/6ad4e435-66de-4e02-8334-8e5c7b658378)
 
