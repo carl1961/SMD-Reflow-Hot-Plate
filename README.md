@@ -72,7 +72,9 @@ I had some silicone pad from a broken shirt press, I used it for heat insulation
 
 ![image](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/6ad4e435-66de-4e02-8334-8e5c7b658378)
 
-I used Silicone Thermal Heatsink Plaster to hold thermocouple to middle bottom of heat plate. I had some that I always use for 3d printer to hold heat sink on drivers, works very well.
+I used Silicone Thermal Heatsink Plaster to hold thermocouple to middle bottom of heat plate. 
+I had some that I always use for 3d printer to hold heat sink on drivers, works very well.
+
 ![image](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/7d7dc01a-fa0a-47df-8e6e-f2d0af1b31f7)
 
 
