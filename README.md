@@ -70,6 +70,9 @@ the trouble with the new board was the 20hz , set it to 16Hz and screen worked f
 I had some silicone pad from a broken shirt press, I used it for heat insulation.
 ![image](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/037704ff-5ddc-4159-b4ab-13e3e21f0099)
 
+when I had trouble with New JLC made board with the display, I though maybe the Chip was damaged. I removed with hot air gun and replaced. it was soon that I tryed changing the Hz fron 20 to 16 that fixed the problem! I remeber John Bradnam saying that in his build instrutions. I used the chip as first test with hot plate, using 183 C solder paste, put the chip on this developing board and ran the led blink test on all 10 pins, chip was fine.
+
+
 ![image](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/6ad4e435-66de-4e02-8334-8e5c7b658378)
 
 I used Silicone Thermal Heatsink Plaster to hold thermocouple to middle bottom of heat plate. 
