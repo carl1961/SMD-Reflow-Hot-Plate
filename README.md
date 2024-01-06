@@ -94,7 +94,9 @@ I removed a good Cap by the mic that I was not using and replaced the burt cap. 
 
 ![WIN_20240105_17_17_52_Pro](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/0473e19c-5ea7-4ddb-9516-9da7964dd211)
 
-Video's of me doing this and the files to make the Mini hot plate or in github folder. This uses a Hotend from a 3d printer.
+Video's of me doing this and the files to make the Mini hot plate or in github folder. This uses a Hotend from a 3d printer. I removed the double Heat bar to just one, as it was taking to long to heat the board.
+
+
 
 
 
