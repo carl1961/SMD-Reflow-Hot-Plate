@@ -85,6 +85,21 @@ I had some that I always use for 3d printers to hold heat sink on stepper driver
 
 ![image](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/7d7dc01a-fa0a-47df-8e6e-f2d0af1b31f7)
 
+Made a New Toy! to remove single parts
+
+![WIN_20240105_16_04_40_Pro](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/38533571-e75f-47ec-bf62-ac5714987f08)
+
+This sound board went bad with a humming, it is used in a talking clock.
+I removed a good Cap by the mic that I was not using and replaced the burt cap. this fixed the humming and talking Clock is working again.
+
+![WIN_20240105_17_17_52_Pro](https://github.com/carl1961/SMD-Reflow-Hot-Plate/assets/3056821/0473e19c-5ea7-4ddb-9516-9da7964dd211)
+
+Video's of me doing this and the files to make the Mini hot plate or in github folder. This uses a Hotend from a 3d printer.
+
+
+
+
+
 
 
 
